@@ -198,12 +198,17 @@ Permite:
 ## 📷 Capturas
 
 * Control de Estados
+  
 <img width="626" height="329" alt="image" src="https://github.com/user-attachments/assets/42ca05b4-fe6d-4173-9525-cca16bbd50fc" />
 
-* Incluye Fallas de Carga y de motor.
+* Incluye Fallas de Carga, motor y alertas de produccion.
+  
 <img width="618" height="320" alt="image" src="https://github.com/user-attachments/assets/e7ff67a7-7008-48bf-801f-33d16053e3c2" />
 
-*
+* Seleccion de Recetas e historial de produccion.
+
+<img width="613" height="320" alt="image" src="https://github.com/user-attachments/assets/b1572cb6-1070-432a-b5c8-c7bba69cc1d7" />
+
 
 
 ---
